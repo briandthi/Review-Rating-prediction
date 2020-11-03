@@ -1,5 +1,10 @@
 
 data/glove.6B.50d.txt
+data/utility-canto-294514-b76127d64580.json
+data/train_emoji.csv
+data/tokenizer.pickle
+data/tesss.csv
+data/tesss.csv
 logs
 my_tfhub_cache
 Model
