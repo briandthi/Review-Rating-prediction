@@ -11,6 +11,7 @@ For this purpous I used this open-data dataset : https://www.kaggle.com/andrewmv
   * digits
   * English stopwords
 - Tokenization
+- Embedding
 - Transfer learning (Universal sentence encoder)
 - RNN layers
 - Data vizualization
