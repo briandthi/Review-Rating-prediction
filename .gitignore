@@ -8,3 +8,6 @@ data/tesss.csv
 logs
 my_tfhub_cache
 Model
+utils.py
+commentary.py
+tf_test.py
