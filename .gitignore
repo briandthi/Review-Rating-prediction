@@ -7,7 +7,7 @@ data/tesss.csv
 data/tesss.csv
 logs
 my_tfhub_cache
-Model
+Model/model_with_TL.h5
 utils.py
 commentary.py
 tf_test.py
